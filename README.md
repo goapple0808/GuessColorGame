@@ -37,4 +37,9 @@
     <li><img src="result.PNG" alt=""></li>
   </ul>
   <hr>
-  <span>press here open the page -><a href="https://sleepy-caverns-77015.herokuapp.com/">click me open the page!!</span>
+  
+  <ol>
+    <li>下載這個文件<li>
+    <li>使用命令行介面進入專案的根目錄，使用 npm install 命令安裝所需的依賴庫</li>
+    <li>npm start啟動</li>
+  </ol>
